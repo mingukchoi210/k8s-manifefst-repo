@@ -37,3 +37,9 @@ jobs:
           argocd app sync eksworkshop-cd-pipeline --auth-token ${{ secrets.ARGOCD_TOKEN }} --server $ARGO_SERVER --insecure
 
 
+
+
+
+
+
+
